@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">learning</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+    <string name="price">Price</string>
+    <string name="extra_chocolate">Extra Chocolate</string>
+    <string name="extra_suger">Extra Suger</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
